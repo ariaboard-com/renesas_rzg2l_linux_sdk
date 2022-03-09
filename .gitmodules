@@ -1,0 +1,16 @@
+[submodule "rzg2-flash-writer"]
+	path = rzg2-flash-writer
+	url = https://github.com/ariaboard-com/renesas_rzg2l_flash_writer.git
+	branch = rz_g2l
+[submodule "linux-cip"]
+	path = linux-cip
+	url = https://github.com/ariaboard-com/renesas_rzg2l_kernel.git
+	branch = rzg2l-cip41
+[submodule "arm-trusted-firmware"]
+	path = arm-trusted-firmware
+	url = https://github.com/ariaboard-com/renesas_rzg2l_arm_trusted_firmware.git
+	branch = v2.5/rzg2l
+[submodule "renesas-u-boot-cip"]
+	path = renesas-u-boot-cip
+	url = https://github.com/ariaboard-com/renesas_rzg2l_uboot.git
+	branch = v2020.10/rzg2l
