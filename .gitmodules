@@ -5,7 +5,7 @@
 [submodule "linux-cip"]
 	path = linux-cip
 	url = https://github.com/ariaboard-com/renesas_rzg2l_kernel.git
-	branch = rzg2l-cip41
+	branch = rz-5.10-cip13
 [submodule "arm-trusted-firmware"]
 	path = arm-trusted-firmware
 	url = https://github.com/ariaboard-com/renesas_rzg2l_arm_trusted_firmware.git
